@@ -3,3 +3,5 @@ In business, customer segmentation is the process of dividing customers into gro
 
 
 git test
+
+git checking branch
